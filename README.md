@@ -26,15 +26,11 @@ Each certification follows a consistent structure to make information easy to fi
 ```
 Certification/
 ├── README.md
-├── Module 1/
-├── Module 2/
-├── Module 3/
-├── Module 4/
-├── Module 5/
-├── Prompts/
-├── Workflows/
-├── Experiments/
-├── Resources/
+├── 01 - Module.md
+├── 02 - Module.md
+├── 03 - Module.md
+├── 04 - Module.md
+├── 05 - Module.md
 └── images/
 ```
 
