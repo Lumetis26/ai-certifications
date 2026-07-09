@@ -43,15 +43,11 @@ After completing this course, you should be able to:
 Claude 101/
 ├── README.md
 ├── images/
-├── Module 1 (Meet Claude)/
-├── Module 2 (Organizing your work)/
-├── Module 3 (Expanding Claude's reach)/
-├── Module 4 (Putting it all together)/
-├── Module 5 (Conclusion & certificate)/
-├── Prompts/
-├── Workflows/
-├── Experiments/
-└── Resources/
+├── 01 - Meet Claude.md
+├── 02 - Organizing your work.md
+├── 03 - Expanding Claude's reach.md
+├── 04 - Putting it all together.md
+├── 05 - Conclusion.md
 ```
 
 ---
