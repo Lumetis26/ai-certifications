@@ -12,8 +12,6 @@ Claude Code 101 introduces the core concepts behind Claude Code and teaches deve
 
 ## Course Roadmap
 
-![Claude Code 101 Course Roadmap](images/claude-code-101-course-roadmap.png)
-
 | Module | Focus |
 |---------|-------|
 | **Module 1** | Meet Claude Code |
